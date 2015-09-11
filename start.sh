@@ -1,0 +1,6 @@
+export LC_APP_ID=r8642fg2ifhups1yr57ulrqfb3fltmwvx82kslfip4llszzi
+export LC_APP_KEY=nbxv7vvmkn77gi9spt7qtbh50yx0g1kipedzkl15n613yhbu
+export LC_APP_MASTER_KEY=d9a1wolcn0obo3b8ag7hj7w6u6jc89haztqf0es2lxyv1ljf
+export LC_APP_PORT=9001
+
+npm start
